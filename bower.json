@@ -1,0 +1,27 @@
+{
+  "name": "data-viewer",
+  "description": "A minimal viewer for data files",
+  "main": "main.js",
+  "authors": [
+    "Caleb Jordan"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "data",
+    "viewer",
+    "h5",
+    "plotly"
+  ],
+  "homepage": "https://github.com/calebjordan/data-viewer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
